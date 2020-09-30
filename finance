@@ -1,0 +1,39 @@
+1a
+Bitcoin is a virtual currency, that is controlled in a decentralized method or system of users and the system isn’t directly subject to the whims of central banking organization or currency governing agency. Although there are a lot  of cryptocurrencies in use today, Bitcoin is by far the most popular and widely used – the closest cryptocurrency equivalent to traditional, state-minted currencies.
+In simple terms, the Stock to Flow (SF or S2F) model is a way to measure the abundance of a particular resource. The Stock to Flow ratio is the amount of a resource held in reserves divided by the amount it is produced annually.
+The Stock to Flow model is generally applied to natural resources not to allow . Let’s take the example of gold. While the estimates may vary, the World Gold Council estimates that around 190,000 tons of gold have ever been mined. This amount (i.e., the total supply) is what we can refer to as the stock. Meanwhile, there are about 2,500-3,200 tons of gold mined each year. This amount is what we can refer to as the flow.
+We can calculate the Stock to Flow ratio using these two metrics. But what does it actually mean? It essentially shows how much supply enters the market each year for a given resource relative to the total supply. The higher the Stock to Flow ratio, the less new supply enters the market relative to the total supply. As such, an asset with a higher Stock to Flow ratio should, in theory, retain its value well over the long-term.
+In contrast, consumable goods and industrial commodities will typically have a low Stock to Flow ratio. Why is that? Since their value typically comes from them being destroyed or consumed, the inventories (the stock) are usually only there to cover demand. These resources don’t necessarily have high value as possessions, so they tend to work poorly as investment assets. In some exceptional cases, the price might rise quickly if there’s an anticipation of shortage in the future, but otherwise, production keeps up with demand.
+It’s important to note that scarcity alone doesn’t necessarily mean that a resource should be valuable. Gold, for example, isn’t all that rare – after all, there are 190,000 tons available! The Stock to Flow ratio suggests that it’s valuable because annual production compared to the existing stock is relatively small and constant.
+
+
+1b
+Black Scholar  call
+
+S0= $40
+K=45
+ t=4months
+ δ=(40/12)*4months = 0.133 
+ r = (1/4)*4 = 0.01
+
+d1 = In(S0/K) + (r +  δ2/2)t
+= In(40/45) + (0.01 +(0.133)24
+	(0.133)√4
+= - 0.1178 + 0.0754
+	0.266
+= -0.1594
+
+
+d2 = d1 -  δ√t
+= -0.1594 – 0.133√4
+= -0.4254
+
+From the Normal table
+N(d1) = 0.4364
+N(d2) = 0.3336
+
+C = S0N(d1) – Ke-rtN(d2)
+= 40*0.4364 – (45*e^(0.01*4) *0.3336)
+= 17.456 – 1.4423
+= 16. 
+
