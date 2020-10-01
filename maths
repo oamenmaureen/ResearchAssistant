@@ -1,0 +1,12 @@
+Let p=(-6,5) and q=(6,11)
+And D is a moving point on axis x whose total distance from p and q is 
+pD + DC
+= sqrt((x-(-6))^2+(0-(-5) )^2) +sqrt((x-6) ^2 +(0-11) ^2)
+= sqrt((x+6) ^2) +25)  + sqrt((x-6) ^2)+121
+Remember from triangle inequality
+
+Y=pD +DC=qC+DC ≥ BC
+x- intersect @-9/4
+then y=sqrt((-9/4 + 6) ^2 +25)  + sqrt((-9/4 - 6) ^2 +121)
+25/4 + 55/4 =20
+Hence the minimum value of y =20
